@@ -4,7 +4,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 # Table of Contents
 - [Overview](#overview)
-- [Screenshots](#screenshots)
+- [Screenshot](#screenshot)
 - [Links](#links)
 - [Build With](#build-with)
 - [Author](#author)
@@ -14,7 +14,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 Users should be able to:
 - View the optimal layout for the site depending on their device's screen size
 
-## Screenshots
+## Screenshot
+![Desktop Design](https://github.com/MJZtein/tailwind-recipe/blob/main/src/screenshots/desktop-design.png)
 
 ## Links
 Solution URL: 
