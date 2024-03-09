@@ -22,13 +22,13 @@ Solution URL:
 Live Site URL: [Github Pages](https://mjztein.github.io/tailwind-recipe/)
 
 ## Build With
+- ReactJS - Typescript
+- Tailwind
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
-- ReactJS - Typescript
-- Tailwind
 
 ## Author
 Frontend Mentor - [@MJZtein](https://www.frontendmentor.io/profile/MJZtein)
