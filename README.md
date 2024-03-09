@@ -3,32 +3,27 @@
 This is a solution to the [Recipe page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 # Table of Contents
-- [Introduction](#introduction)
-- [Installation](#installation)
-- [Prerequisites](#prerequisites)
-- [Steps](#steps)
-- [Usage](#usage)
-- [License](#license)
+- [Overview](#overview)
+- [Screenshots](#screenshots)
+- [Links](#links)
+- [Build With](#build-with)
+- [Author](#author)
 
-# Introduction
+## Overview
+### The challenge
+Users should be able to:
+- View the optimal layout for the site depending on their device's screen size
 
-This is the introduction section.
+## Screenshots
 
-## Installation
+## Links
+Solution URL: 
+Live Site URL: [Github Pages](https://mjztein.github.io/tailwind-recipe/)
 
-### Prerequisites
+## Build With
+- ReactJS
+- Tailwind
+- Typescript
 
-This section describes prerequisites.
-
-### Steps
-
-This section describes installation steps.
-
-# Usage
-
-This is the usage section.
-
-# License
-
-This is the license section.
-
+## Author
+Frontend Mentor - [@MJZtein](https://www.frontendmentor.io/profile/MJZtein)
