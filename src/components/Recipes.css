@@ -1,0 +1,61 @@
+:root {
+  --bodyFontSize: 16px;
+  --bodyFontFamily: "Outfit";
+  --bodyBgColor: hsl(30, 54%, 90%);
+  --recipeBgColor: hsl(0, 0%, 100%);
+  --recipeTitleColor: hsl(24, 5%, 18%);
+  --recipeSubtitleColor: hsl(14, 45%, 36%);
+  --recipePColor: hsl(30, 10%, 34%);
+  --recipePFontSize: 16px;
+  --recipeTitleFontFamily: "Young Serif", serif;
+  --recipePreparationBackgroundColor: hsl(330, 100%, 98%);
+  --recipePreparationTitleColor: hsl(332, 51%, 32%);
+  --recipeLineColor: hsl(30, 18%, 87%);
+}
+
+h1,
+h2 {
+  font-family: var(--recipeTitleFontFamily);
+}
+
+h1 {
+  @apply text-[color:var(--recipeTitleColor)] leading-tight;
+}
+
+h2 {
+  @apply text-[color:var(--recipeSubtitleColor)];
+}
+
+h3 {
+  @apply text-[color:var(--recipePreparationTitleColor)];
+}
+
+p,
+ul,
+ol {
+  @apply leading-[1.7em];
+}
+
+ul li {
+  @apply text-[color:var(--recipePreparationTitleColor)] px-[1.2rem] py-[0.3rem];
+}
+
+ul li > span {
+  @apply inline-block align-middle;
+}
+
+li span {
+  @apply text-[color:var(--recipePColor)] font-normal;
+}
+
+
+ul,
+ol {
+  @apply pt-[0.4rem] pb-0 px-4;
+  font-family: var(--bodyFontFamily);
+}
+
+ol li,
+td.values {
+  @apply text-[color:var(--recipeSubtitleColor)] font-bold pl-4 px-0 py-[0.3rem];
+}
