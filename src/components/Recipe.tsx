@@ -26,9 +26,9 @@ const Recipe = () => {
 
             <section className="px-8 py-4 custom:p-0 custom:w-full">
               <div className="bg-recipePreparationBackgroundColor rounded-lg px-7 py-4">
-                <h3 className="text-recipePreparationTitleColor text-[1.2rem] font-bold">
+                <p className="text-recipePreparationTitleColor leading-[1.8rem] text-[1.2rem] font-bold">
                   Preparation time
-                </h3>
+                </p>
 
                 <ul className="list-disc ml-4 custom:leading-[1.4rem]">
                   <li>
@@ -160,10 +160,11 @@ const Recipe = () => {
           </section>
         </article>
       </main>
+      
       <footer className="hidden custom:p-12 custom:block">
     <div className="text-base text-center">
-      Challenge by <a className="text-footerColor " href="https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm" target="_blank">Frontend Mentor</a>,
-      Coded by <a className="text-footerColor" href="https://github.com/MJZtein">MJZtein</a>.
+      Challenge by <a className="text-footerColor underline" href="https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm" target="_blank">Frontend Mentor</a>,
+      Coded by <a className="text-footerColor underline" href="https://github.com/MJZtein">MJZtein</a>.
     </div>
   </footer>
     </>
