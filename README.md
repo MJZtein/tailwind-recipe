@@ -18,7 +18,7 @@ Users should be able to:
 ![Desktop Design](https://github.com/MJZtein/tailwind-recipe/blob/main/src/screenshots/desktop-design.png)
 
 ## Links
-Solution URL: 
+Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/recipe-page-solution-react-vite-typescript-and-tailwind-KW9bGRduHX)
 Live Site URL: [Github Pages](https://mjztein.github.io/tailwind-recipe/)
 
 ## Build With
